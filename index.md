@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
     <head>
         <meta charset="UTF-8">
@@ -9,10 +9,10 @@
     <body>
         <table cellspacing = 15>
             <tr>
-                <td> <img src="Me1.jpg" alt="Britni McMillan"></td>
+                <td> <img src="Me1.jpg" alt="Britni McMillan" width="450" height="300"></td>
                 <td><h1>Britni McMillan</h1>
         <p><em>Junior Web Developer</em></p>
-        <p>I am 24 years old and I am from South Carolina. I graduated from college in December 2020 with an Associate's degree in Applied Computer Science from Orangeburg Calhoun Technical College. I am a Junior Web Developer.</p></td>
+        <p>I am 24 years old and I am from South Carolina. I graduated from college in December 2020 with an Associate's degree in Applied Computer Science from Orangeburg Calhoun Technical College.</p></td>
             </tr>
         </table>
        
